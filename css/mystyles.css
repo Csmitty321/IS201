@@ -1,0 +1,63 @@
+h1{
+    color: rgb(32, 10, 234);
+    font-weight:bold;
+}
+body{
+    background-color: lightblue;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.header{
+text-align: center;
+}
+
+.commonheader{
+    text-align: center;
+}
+.mainbody{
+    text-align: center;
+}
+ul{
+    text-align: left;
+    display:inline-block;
+}
+ol{
+    text-align: left;
+    display:inline-block;
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+iframe{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+tableauviz{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+h3{
+    text-align:center
+}
+
+common{
+    background-color: gray;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: #ccc;
+}
+nav a{
+    float: left;
+    color: #333;
+    Padding: 10px 13px;
+    text-decoration:none;
+    font-size: 16px;
+    font-weight: bold;
+}
+.footer{
+    text-align: center;
+}
